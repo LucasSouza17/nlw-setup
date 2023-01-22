@@ -1,6 +1,6 @@
+import { TouchableOpacity, Dimensions, TouchableOpacityProps } from "react-native";
 import clsx from "clsx";
 import dayjs from "dayjs";
-import { TouchableOpacity, Dimensions, TouchableOpacityProps } from "react-native";
 
 import { generateProgressPercentage } from "../utils/generate-progress-percentage";
 
